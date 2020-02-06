@@ -5,3 +5,9 @@
 Comando: tsc -init
 
 O tscconfig.json é o arquivo de configuração do TypeScript.
+
+
+## Criando package.json
+
+Comando: npm init -y
+
