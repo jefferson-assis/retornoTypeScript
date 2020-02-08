@@ -19,3 +19,8 @@ A função de package.json é gerenciar as informações e de script e dependenc
 
 O live server será usado para usar a porta 3000 para
 rodar a aplicação.
+
+## Arquivo .ts
+>>Comando: tsc -w
+
+Chama a função do node para executa a modificação em tempo real.
